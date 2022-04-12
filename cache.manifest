@@ -3,7 +3,6 @@ CACHE MANIFEST
 CACHE:
 disable-updates.bin
 enable-updates.bin
-exit-idu.bin
 exploit.js
 frontend.js
 ftp.bin
